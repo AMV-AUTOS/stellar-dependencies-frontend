@@ -1,0 +1,14 @@
+{
+  "name": "dependency-lens-frontend",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "description": "Web UI for DependencyLens",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "check": "node --check public/app.js"
+  },
+  "license": "MIT"
+}
